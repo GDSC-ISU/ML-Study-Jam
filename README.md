@@ -10,13 +10,13 @@ ML Study Jam are 30 minute session that provide students a learning opportunity 
 
 Below is the curriculum for the session
 
-- Week 1: Intro to Python programming [recording](https://www.loom.com/share/f910d0d9f414475a9490c47eea242959)
+- Week 1: Intro to Python programming ([recording](https://www.loom.com/share/f910d0d9f414475a9490c47eea242959))
   - Basics
   - Python Data Structures
   - Control Flow Statements
   - Functions
   - Classes
-- Week 2: Data Analysis with Pandas [recording](https://www.loom.com/share/0c9267ac9752440d925e088f07c70153)
+- Week 2: Data Analysis with Pandas ([recording](https://www.loom.com/share/0c9267ac9752440d925e088f07c70153))
   - Creating, reading, writing
   - Indexing, selecting, assigning
   - Maps
