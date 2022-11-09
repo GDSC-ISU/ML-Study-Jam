@@ -33,7 +33,6 @@ Below is the curriculum for the session
   - Categorical variables
   - Pipelines
   - Cross-validation
-  - XGBoost
 
 ## Kaggle courses
 
