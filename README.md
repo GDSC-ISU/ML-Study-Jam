@@ -28,7 +28,7 @@ Below is the curriculum for the session
   - ML models
   - Model validation
   - Underfitting and Overfitting
-- Week 4: Intermediate Machine Learning
+- Week 4: Intermediate Machine Learning ([recording](https://www.loom.com/share/f592ca90e297454081e85bbeae75edef))
   - Missing values
   - Categorical variables
   - Pipelines
